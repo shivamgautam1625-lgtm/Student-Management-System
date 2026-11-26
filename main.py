@@ -1,5 +1,5 @@
 def welcome():
-    print("Welcome to Student Management System")
+    print("Student Management System - Feature 1")
 
 def student_details():
     print("Student Management System")
