@@ -1,6 +1,11 @@
 def welcome():
     print("Welcome to Student Management System")
 
+def student_details():
+    print("Student Management System")
+
+student_details()
+
 def calculate_grade(marks):
     if marks >= 90:
         return "A"
